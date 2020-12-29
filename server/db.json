@@ -4,7 +4,7 @@
       "id": 1,
       "title": "The Vue tutorial",
       "description": "The best tips",
-      "published": false
+      "published": true
     },
     {
       "id": 2,
@@ -17,6 +17,18 @@
       "title": "The NET tutorial",
       "description": "The best tips for Net Core",
       "published": true
+    },
+    {
+      "id": "99",
+      "title": "Try",
+      "description": "De",
+      "published": false
+    },
+    {
+      "id": "Ul2uYdM",
+      "title": "Java",
+      "description": "Java Spring Boot",
+      "published": false
     }
   ]
 }
