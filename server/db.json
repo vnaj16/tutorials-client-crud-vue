@@ -1,0 +1,22 @@
+{
+  "tutorials": [
+    {
+      "id": 1,
+      "title": "The Vue tutorial",
+      "description": "The best tips",
+      "published": false
+    },
+    {
+      "id": 2,
+      "title": "The Vue tutorial 2",
+      "description": "The best tips for Vue",
+      "published": true
+    },
+    {
+      "id": 3,
+      "title": "The NET tutorial",
+      "description": "The best tips for Net Core",
+      "published": true
+    }
+  ]
+}
